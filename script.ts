@@ -51,4 +51,4 @@ if (resumeOutputElement){
 } else {
     console.error('one or more output element are missing')
 }
-
+})
